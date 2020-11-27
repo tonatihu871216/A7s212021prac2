@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">A7s212021prac2</string>
+    <string name="Descripcion">Anubis</string>
+    <string name="bienvenido">Bienvenido a la Prac2</string>
+    <string name="titulo">MENU DE OPCIONES</string>
+    <string name="btnpSumar">SUMAR NUMEROS</string>
+    <string name="tituloSumar">Sumar 2 Numeros</string>
+    <string name="etiquetanum1">Ingresa el primer valor a sumar</string>
+    <string name="etiquetanum2">Ingresa el segundo valor a sumar</string>
+    <string name="btncalcular">Calcula es resultado</string>
+    <string name="tituloResta">"Restar 2 Numeros "</string>
+    <string name="etiquetnum1">Ingresa el primero valor a restar</string>
+    <string name="etiquetnum2">"Ingresa el segundo valor a restar "</string>
+    <string name="btnpRestar">RESTAR NUMEROS</string>
+    <string name="tituloMultilicar">Multiplicar 2 Numeros</string>
+    <string name="etiquenum1">Ingresa el primer valor a multiplicar</string>
+    <string name="etiquenum2">Ingresa el segundo valor a multiplicar</string>
+    <string name="btnpMultiplicar">MULTIPLICAR NUMEROS</string>
+    <string name="titulodividir">Dividir 2 Numeros</string>
+    <string name="etiqunum1">Ingresa el primer valor a dividir</string>
+    <string name="etiqunnum1">Ingresa el segundo valor a dividir</string>
+    <string name="btnpDividir">DIVIDIR NUMEROS</string>
+    <string name="etiqnum1">Ingresa el valor a elevar al cuadrado</string>
+    <string name="btnpElevar">ELEVAR NUMERO</string>
+    <string name="tituloElevacionPotencia">Eleva un numero(n) a la potencia(n)</string>
+    <string name="Numbase">Ingresa un numero</string>
+    <string name="Numexponente">Ingresa la Potencia</string>
+    <string name="btnPotencia">ELEVAR NUMERO A POTENCIA</string>
+    <string name="Welcome">Carmelo Tonatihu Olivares Lezama</string>
+    <string name="ElevacionCuadrada">Eleva un numero al Cuadrado</string>
+</resources>
